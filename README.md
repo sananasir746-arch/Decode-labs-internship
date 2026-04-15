@@ -9,7 +9,7 @@ This repository showcases my projects and tasks completed during my internship a
 | Task # | Project Title | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **Task 1** | Titanic Survival Analysis | Exploratory Data Analysis (EDA) of the Titanic disaster. | [View Task 1](./Task1_EDA.ipynb) |
-| **Task 2** | Data Cleaning & Preprocessing | Preparing and refining raw datasets for modeling. | [View Task 2](./Task-2/Task2_Data_Cleaning.ipynb) |
+| **Task 2** | Data Cleaning & Preprocessing | Preparing and refining raw datasets for modeling. | [View Task 2](./Task2_Data_cleaning_and_preprocessing.ipynb) |
 
 ---
 
